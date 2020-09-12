@@ -20,5 +20,3 @@ def printer
   puts 
 end
 
-
-badge_maker("Arel")
